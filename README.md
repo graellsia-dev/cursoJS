@@ -1,8 +1,8 @@
 # Primer paso para hacer en casa
 1. Hacer sync en github del repositorio main
 2. Hacer desde la consola, SIEMPRE ESTANDO EN LA RUTA DE LA CARPETA "desktop/curso-js-dic/cursoJS":
-    1. 1. git fetch
-    1. 2. git pull
+    1. git fetch
+    1. git pull
 
 
 
