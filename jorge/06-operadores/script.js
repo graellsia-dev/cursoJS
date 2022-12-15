@@ -21,7 +21,7 @@
 
 
 // Ejercicio 5:
-// En el ejercicio anterior si el usuario no introduce un numero, deberá aparecer un alert que diga "Debe introducir un numero"
+// En el ejercicio anterior si el usuario no introduce un numero, deberá aparecer un alert que diga "Debe introducir un numero" 
 
 
 // Ejercicio 6:
