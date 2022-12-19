@@ -49,4 +49,5 @@ const resPrompt = prompt('¿que temperatura hace?')
 // console.log(parseInt(resPrompt) + 273); 
 
 console.log(typeof resPrompt);
-console.log(typeof parseInt(resPrompt));
+console.log(typeof parseInt(resPrompt)); 
+
