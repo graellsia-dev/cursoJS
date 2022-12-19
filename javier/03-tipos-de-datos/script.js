@@ -54,7 +54,7 @@ console.log(2 * "hola")
 
 // Ejercicio 6:
 // Mediante un prompt solicitar al usuario que introduzca una temperatura y cambiarla a grados farenheit.
-
+const temperatura = prompt()
 
 
 
