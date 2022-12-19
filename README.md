@@ -33,8 +33,9 @@ Al terminar de trabajar con los ejercicios guardais vuestro progreso haciendo:
 git add .
 git commit -m "Ejercicios unidad 03-tipos-de-dato"
 gft push
-
 ```
+
+Hacer en github contribute y pull request
 
 ## Cualquier pregunta no dudéis en escribirnos un correo :)
 dev.graellsia@gmail.com

@@ -60,8 +60,7 @@ const resPrompt = prompt('¿Que temperatura hace?');
 
 //Ejercicio 2
 
-console.log(typeof resPrompt)
-console.log(typeof parseInt( resPrompt ));
+console.log(parseInt( resPrompt ) + 273);
 
 
 
