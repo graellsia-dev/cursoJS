@@ -65,6 +65,7 @@ console.log('partedecimal' , (variableNumeroDecimal - Math.trunc(variableNumeroD
 
 // Ejercicio 4: AVANZADO
 // Hacer una operación matemática que devuelva NaN.
+console.log(3* "hola")
 Math.trunc(NaN);      // NaN
 
 
@@ -74,6 +75,8 @@ Math.trunc(NaN);      // NaN
 // Ejercicio 6:
 // Mediante un prompt solicitar al usuario que introduzca una temperatura y cambiarla a grados farenheit.
 
+const temperatura= parseInt (prompt (''))
+const temperatura = prompt('introduce temperatura')
 
 
 
