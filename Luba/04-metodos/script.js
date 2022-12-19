@@ -1,0 +1,91 @@
+
+// Ejercicios:
+// El alumno deberá linkar el archivo script.js con el archivo index.html para utilizarlo desde el navegador.
+// Las herramientas de desarrollador deberán estar siempre abiertas.
+// El codigo deberá organizarse de manera limpia y lógica utilizando siempre las buenas practicas indicadas en clase.
+
+// Ejercicio 1:
+// El alumno deberá crear un array con mas de dos posiciones y mediante el metodo adecuado mostrará el tamaño del array.
+// El alumno modificará el tamaño del array y volverá a comprobar que devuelve el metodo
+
+// const arr1 = [ 1,2,68,33,100000000 ];
+// let arr2 = [ "1" , , true , 33 , false , 230 , 25, 98 ];
+
+// // console.log(arr1.length);
+// // console.log(arr2.length);
+
+// arr2.push(`12`);
+
+// // console.log(arr2.length);
+// // console.log(arr2)
+// console.log("el segundo de arr1 es:", arr1[1]);
+// console.log("el segundo de arr2 es:", arr2[1]);
+
+// console.log("el ultimo de arr2 es:", arr2[arr2.length -1]);
+
+
+// Ejercicio 2:
+// El alumno deberá crear un string con mas de dos caracteres y mediante el metodo adecuado mostrará el tamaño del string.
+// El alumno modificará el tamaño del string y volverá a comprobar que devuelve el metodo
+
+// const string1 = "13332"
+// let string2 = "hola que tal";
+// console.log(string1.length);
+// console.log(string2.length)
+// console.log(string2)
+
+
+
+// Ejercicio 3: 
+// El alumno creará un string en minúsculas y mediante el metodo adecuado lo pasará a mayúsculas.
+
+const string1 = "hola"
+console.log(string1, "en mayusculas es: ", string1.toUpperCase() ); 
+
+
+
+// Ejercicio 4: 
+// El alumno creará un string en mayúsculas y mediante el metodo adecuado lo pasará a minúsculas.
+// const string2 = "HOLA"
+// console.log(string2, "en minusculas es: ", string2.toLowerCase() ); 
+
+
+
+// Ejercicio 5: 
+// El alumno deberá obtener el elemento de la posición 2 y 4 del siguiente array: const array = ['hola', 12, , true, [ 1, 3], 'mundo']
+// const array = ['hola', 12, , true, [ 1, 3], 'mundo']
+// console.log("el segundo de array es:", array[2]);
+// console.log("el cuarto de array es:", array[4]);
+
+
+
+// Ejercicio 6:
+// El alumno añadirá nuevos elementos al array en la ultima posición.
+const array = ['hola', 12, , true, [ 1, 3], 'mundo']
+array.push(`12`);
+
+
+
+// Ejercicio 7: AVANZADO
+// El alumno mediante el método adecuado pregunta si un array de numeros dado incluye un número "3"
+// const arryNumbers = [1,2,3,4,5]
+// const arryNumbers2 = [2,4,6,8,10]
+
+
+
+
+// Ejercicio 8: AVANZADO
+// El alumno mostrará por consola un hola mundo utilizando los elementos del array del ejercicio 5.
+
+
+
+
+
+// Ejercicio 9: AVANZADO
+// El alumno dado un array de numeros devolverá un array con todos los términos multiplicados por dos.
+
+
+
+// Ejercicio 10: AVANZADO
+// El alumno obtendrá la ultima posición de cualquier arrray.
+
