@@ -28,23 +28,22 @@ git fetch
 git pull
 ```
 
-3. Luego os copiáis la carpeta de cada unidad dentro de la que tiene vuestro nombre siguiendo el mismo orden de siempre.
-Al terminar de trabajar con los ejercicios guardais vuestro progreso haciendo:
+3. Trabajais suguiendo la metodología de clase: modificando script.js y luego viendo los resultados en el index.html, el cual está abierto por el navegador. Al terminar de trabajar guardais vuestro progreso haciendo:
 ```
 git add .
-git commit -m "Ejercicios unidad 03-tipos-de-dato"
+git commit -m "Ejercicios unidad X"
 gft push
 ```
-4. Para terminar, hacer en github: contribute y pull request
+4. Para finalizar, hacer en github: contribute y pull request
 
 # Si quereis trabajar desde un PC que no hayais usado nunca se hace lo siguinete:
-1. Descargais VScode desde [aquí]() y lo instaláis.
-2. Descargais git desde [aquí]() y lo instaláis.
+1. Descargáis VScode desde [aquí](https://code.visualstudio.com/download) y lo instaláis.
+2. Descargáis git desde [aquí](https://git-scm.com/downloads) y lo instaláis.
 3. Seguir los pasos del siguiente [enlace](https://www.mclibre.org/consultar/informatica/lecciones/vsc-git-repositorio.html) hasta donde pone "Borrar credencial de Windows"
-4. Trabajais en VScode como hacemos en clase y al terminar abris una termianl en VScode y haceis:
+4. Trabajáis en VScode como hacemos en clase y al terminar abris una termianl en VScode y hacéis:
 ```
 git add .
-git commit -m "Ejercicios unidad 03-tipos-de-dato"
+git commit -m "me encanta programar"
 gft push
 ```
 5. Para terminar, hacer en github: contribute y pull request
