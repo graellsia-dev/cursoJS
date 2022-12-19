@@ -1,3 +1,5 @@
+# Os recomendamos repetir en vuestra casa todo lo que vayamos haciendo en clase
+
 # IMPORTANTE! Al comenzar a trabajar, lo primero que tenéis que hacer es:
 1. Hacer sync en github del repositorio main
 2. Hacer desde la consola (SIEMPRE ESTANDO EN LA RUTA DE LA CARPETA "desktop/curso-js-dic/cursoJS"):
@@ -13,8 +15,6 @@ git commit -m "Ejercicios unidad X"
 gft push
 ```
 4. Para finalizar, hacer en github: contribute y pull request
-
-# Os recomendamos repetir en vuestra casa todo lo que vayamos haciendo en clase
 
 # Cursos
 ## Temario del curso de JavaScript
