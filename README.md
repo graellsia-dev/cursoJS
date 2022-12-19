@@ -10,7 +10,8 @@ git pull
 ## Curso de HTML
 [Curso html](https://t.sidekickopen45.com/s3t/c/5/f18dQhb0S7kF8cpfNkVRywMy59hl3kW7_k2841CXdp3VNxC2j2Sv_M9W2dykgz2KcmX_101?te=W3R5hFj4cm2zwW4mKLS-3Fbsl9W3F4DJm3___nhW43T4P03K1LYgW1LzPRk49P7BFW4fKXFh4hMnzcW4cNcV-3F6d92W4cFxVZ3zbV8PW4hMnzc3_SMDQW4hJp1m3_R592W1pKtp13K76NrW45n5SR47TcH9W25lMTZ3VYyh7W4fPCGW3JH9glW4tDYHz43NzQzW3_HCKt2YhCXWW3QQs_62xXXybW43Z5m03jcQpkW2Wp8jn3Z-G2WW1_5fmR2Wtm91w2v-Dmw77q2&si=8000000001494719&pi=e2bc8731-4d7b-4488-af2c-c591f2b1dbe6)
 
-Este es el curso que os enseñamos en clase.
+## Curso de CSS
+[Curso CSS](https://www.codecademy.com/learn/learn-css?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9rgGjflEtvGRe2nZzvifobTpmOjmP9mNhNmlEepdoy9nZS5sOCALlrxx6GwjOMYkDhoALQ)
 
 ## Temario del curso de JavaScript
 
@@ -19,7 +20,7 @@ Dentro de cada unidad podéis ver que en el archivo de script.js hay varios ejer
 
 NOTA: el archivo de index.html está vacío, podéis copiar el que hemos hecho hoy.
 
-NOTA: Para poder hacer los ejercicios, lo primero que tenéis que hacer es:
+# Al comenzar a trabajar, lo primero que tenéis que hacer es:
 1. Hacer sync en github del repositorio main
 2. Hacer desde la consola (SIEMPRE ESTANDO EN LA RUTA DE LA CARPETA "desktop/curso-js-dic/cursoJS"):
 ```
@@ -27,15 +28,26 @@ git fetch
 git pull
 ```
 
-Luego os copiáis la carpeta de cada unidad dentro de la que tiene vuestro nombre siguiendo el mismo orden de siempre.
+3. Luego os copiáis la carpeta de cada unidad dentro de la que tiene vuestro nombre siguiendo el mismo orden de siempre.
 Al terminar de trabajar con los ejercicios guardais vuestro progreso haciendo:
 ```
 git add .
 git commit -m "Ejercicios unidad 03-tipos-de-dato"
 gft push
 ```
+4. Para terminar, hacer en github: contribute y pull request
 
-Para terminar, hacer en github: contribute y pull request
+# Si quereis trabajar desde un PC que no hayais usado nunca se hace lo siguinete:
+1. Descargais VScode desde [aquí]() y lo instaláis.
+2. Descargais git desde [aquí]() y lo instaláis.
+3. Seguir los pasos del siguiente [enlace](https://www.mclibre.org/consultar/informatica/lecciones/vsc-git-repositorio.html) hasta donde pone "Borrar credencial de Windows"
+4. Trabajais en VScode como hacemos en clase y al terminar abris una termianl en VScode y haceis:
+```
+git add .
+git commit -m "Ejercicios unidad 03-tipos-de-dato"
+gft push
+```
+5. Para terminar, hacer en github: contribute y pull request
 
 ## Cualquier pregunta no dudéis en escribirnos un correo :)
 dev.graellsia@gmail.com
