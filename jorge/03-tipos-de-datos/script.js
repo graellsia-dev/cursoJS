@@ -1,6 +1,7 @@
 /////////////
 // CLASE 3 //
 /////////////
+
 // LET y CONST
 //let variableQueCambia = 1
 //const variableQueNoCabia = "hola"
