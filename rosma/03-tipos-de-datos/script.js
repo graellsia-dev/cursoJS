@@ -81,6 +81,11 @@ console.log(3 * "hola");
 
 // Ejercicio 7: AVANZADO
 // Mediante un prompt solicitar al usuario 3 numeros que formen una ecuacion de segundo grado y resolverla.
+// defines constantes
+
+const a = parseInt(prompt("introduzca numero A"))
+
+
 
 
 
