@@ -54,9 +54,17 @@ console.log(3*"hola");
 
 // Ejercicio 6:
 // Mediante un prompt solicitar al usuario que introduzca una temperatura y cambiarla a grados farenheit.
+const temperatura = parseInt(prompt('introduce temperatura'))
+const tempFarenheit =temperatura * 9/5 +32;
+const tempKelvin = temperatura + 273;
+console.log('tem farenheit', tempFarenheit );
+console.log('temp Kelvin,' tempKelvin );
 
+const res1 = (-b + Math.sqrt(b**2 - 4 * a * c))/(2 * a);
+const res2 = (-b - Math.sqrt(b**2 - 4 * a * c))/(2 * a )
 
-
+console.log('respuesta 1', res1);
+console.log('respuesta 2', res2);
 
 
 // Ejercicio 7: AVANZADO
