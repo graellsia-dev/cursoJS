@@ -4,6 +4,9 @@
 // El codigo deberá organizarse de manera limpia y lógica utilizando siempre las buenas practicas indicadas en clase.
 
 // Ejercicio 1:
+// Crear un h1 que diga "hola mundo" desde js
+
+
 // Ejercicio 2:
 // Ejercicio 3:
 // Ejercicio 4:
