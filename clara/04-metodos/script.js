@@ -4,6 +4,12 @@
 // El codigo deberá organizarse de manera limpia y lógica utilizando siempre las buenas practicas indicadas en clase.
 console.log("Comenzamos los ejercicios");
 
+let arr = [1, 2, "hola", "Adios"];
+console.log(arr[2];
+arr[2] = "dato cambiado";
+
+
+
 
 
 
