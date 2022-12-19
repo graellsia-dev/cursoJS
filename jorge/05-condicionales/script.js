@@ -23,9 +23,6 @@
 // mediante un prompt solictar una temperatura, luego mediante otro prompt solicitar en que unidades la quiere, en ºK o ºF.
 
 
-// Ejercicio 6:
+// Ejercicio 6: AVANZADO
 // Mediante un prompt solicitar un numero, si este numero es divisible entre 3 deberá mostrar la palabra "FIZZ",
 // si es divisible entre 5 deberá mostrar la palabra "BUZZ", y es divisible entre 3 y 5 deberá mostrar la palabra "FIZZ-BUZZ",
-
-
-// Ejercicio 7:
