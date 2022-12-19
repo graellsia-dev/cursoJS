@@ -5,7 +5,7 @@
 console.log("Comenzamos los ejercicios");
 
 let arr = [1, 2, "hola", "Adios"];
-console.log(arr[2];
+console.log(arr[2]);
 arr[2] = "dato cambiado";
 
 
@@ -17,7 +17,7 @@ arr[2] = "dato cambiado";
 // El alumno deberá crear un array con mas de dos posiciones y mediante el metodo adecuado mostrará el tamaño del array.
 // El alumno modificará el tamaño del array y volverá a comprobar que devuelve el metodo
 
-
+let arrayEjercicio =["Pedro", "Pablo", "Clara"]
 
 
 // Ejercicio 2:
