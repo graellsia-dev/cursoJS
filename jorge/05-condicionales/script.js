@@ -16,11 +16,11 @@
 
 
 // Ejercicio 4:
-// Dado un array de datos, separarlo en arrays de diferentes datos distintos.
-
-
-// Ejercicio 5:
 // mediante un prompt solictar una temperatura, luego mediante otro prompt solicitar en que unidades la quiere, en ºK o ºF.
+
+
+// Ejercicio 5: AVANZADO
+// Dado un array de datos, separarlo en arrays de diferentes datos distintos.
 
 
 // Ejercicio 6: AVANZADO
