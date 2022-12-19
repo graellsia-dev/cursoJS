@@ -7,8 +7,7 @@ console.log("Comenzamos los ejercicios");
 let arr = [1, 2, "hola", "Adios"];
 console.log(arr[2]);
 arr[2] = "dato cambiado";
-
-
+ 
 
 
 
