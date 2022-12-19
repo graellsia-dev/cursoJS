@@ -4,7 +4,7 @@
 // El codigo deberá organizarse de manera limpia y lógica utilizando siempre las buenas practicas indicadas en clase.
 
 // Ejercicio 1:
-// Crear una variable de cada tipo de los que hemos visto en clase (string, number, undefined, booleano)
+// Crear una variable de cada tipo de los que hemos visto en clase (string, number, undefined, array, booleano)
 // Cada variable deberemos aplicarle el metodo correspondiente que devuelva cual es el tipo de dato
 
 
@@ -18,7 +18,7 @@
 
 
 
-// Ejercicio 3: AVANZADO
+// Ejercicio 3: 
 // Crear una variable que sea un numero decimal, obtener su parte entera y su parte decimal por separado, 
 // y guardarlo en dos variables por separado
 
@@ -26,7 +26,7 @@
 
 
 
-// Ejercicio 4: AVANZADO
+// Ejercicio 4:
 // Hacer una operación matemática que devuelva NaN.
 
 
@@ -40,7 +40,7 @@
 
 
 
-// Ejercicio 7: AVANZADO
+// Ejercicio 7:
 // Mediante un prompt solicitar al usuario 3 numeros que formen una ecuacion de segundo grado y resolverla.
 
 

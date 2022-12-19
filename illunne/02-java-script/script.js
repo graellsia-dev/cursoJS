@@ -1,63 +1,52 @@
 
 
-// console.log("Hola mundo");
+// console.log('Hola mundo');
 
-// const saludo = "Hola clase, soy Jorge";
+const saludo = "Hola clase, soy Jorge";
 
-// console.log(saludo)
+// console.log(saludo);
 
-// const saludo2 = "Hola clase";
+const saludo2 = "Hola clase";
 
-// console.log(saludo2 + " Soy Illunne");
+// console.log(saludo2 + " soy Jorge");
 
 let saludo3 = "hola clase";
 
-// console.log(saludo3)
+// console.log(saludo3);
 
 saludo3 = "Hola clase soy Jorge";
 
 // console.log(saludo3);
 
-// ejercicios: crear tres variables, una modificable.
-//hacer una suma, una resta, una multiplicacion de las tres variables,
-//luego actualizar la tercera y volver a hacer la multiplicacion
+// Ejercicios: crear tres variables, una modificable.
+// hacer una suma, una resta, una multiplicación de las 3 variables, 
+// luego actualizar la tercera y volver a hacer la multiplicación
 
-const a = 1;
+const a = 10;
+const b = 15;
+let c = 12;
 
-const b = 2;
+// console.log( "Suma " , a + b + c );
+// console.log( "Resta " , a - b - c);
+// console.log( "Multiplicación " , a * b * c);
 
-let c = 3;
+c = -5; // Esto es una actualización de la variable.
 
-// console.log( a + b + c );
-
-// console.log (a - b - c );
-
-// console.log( a*b*c );
-
-c = 1000;
-
-// console.log( a*b*c );
-// console.warn("esto es un error");
-// console.error("esto es un error grave");
-
-const resAlert = ("esta pagina es para mayores")
-
-console.log(resAlert);
-
-const resPrompt = prompt("¿Qué temperatura hace?");
-
-console.log(resPrompt);
+// console.log( "Suma " , a + b + c );
+// console.log( "Resta " , a - b - c);
+// console.log( "Multiplicación " , a * b * c);
 
 
+// console.warn('Esto es un error');
+// console.error('Esto es un error grave');
 
+// const resAlert = alert('Esta pagina es para mayores');
 
+// console.log(resAlert);
 
+const resPrompt = prompt('¿Qué temperatura hace?');
 
+// console.log( parseInt( resPrompt ) + 273 );
 
-
-
-
-
-
-
-
+console.log(typeof resPrompt);
+console.log(typeof parseInt( resPrompt ));
