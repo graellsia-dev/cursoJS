@@ -1,0 +1,8 @@
+#contenedor{
+    background-color: antiquewhite;
+    width: 300px;
+    height: 150px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 10px;
+}
