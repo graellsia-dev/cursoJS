@@ -12,7 +12,12 @@
 
 
 // Ejercicio 3:
+// Eliminar el botón generado en el ejercicio 2
+
+
 // Ejercicio 4:
+
+
 // Ejercicio 5:
 // Ejercicio 6:
 // Ejercicio 7:
