@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: red;
+}
+
+.titulo-principal{
+    color: blue
+}
+
+#segundo-titulo{
+    color: green;
+}
