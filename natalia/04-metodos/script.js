@@ -3,69 +3,74 @@
 // Las herramientas de desarrollador deberán estar siempre abiertas.
 // El codigo deberá organizarse de manera limpia y lógica utilizando siempre las buenas practicas indicadas en clase.
 
-
-
-
-
-
 // Ejercicio 1:
 // El alumno deberá crear un array con mas de dos posiciones y mediante el metodo adecuado mostrará el tamaño del array.
 // El alumno modificará el tamaño del array y volverá a comprobar que devuelve el metodo
 
-let arr =[5 , "adios", false];
-let arr2 =["dos", 6, true, 7];
-console.log(arr.length);
-console.log(arr2.length);
+const arr1 =[1,2,3,4];
+let arr2 = [1 ,true, 2, false, 3];
 
-console.log(arr.push(1));
-console.log(arr2.push(2));
+console.log(arr1.length)
+console.log(arr2.length)
 
-console.log(arr);
-console.log(arr2);
+arr2.push('hola')
+console.log(arr2)
+console.log(arr2.length)
 
-console.log(arr[arr.length - 1]); //el último elemento del array//
+const arr3 =[1,2,3,4,77];
+console.log('posicion1',arr3[1])
+console.log('posicionultima',arr3[arr3.length -1])
 
-console.log(arr[2]); // el segundo elemento del array//
+
+
+
+
 
 
 // Ejercicio 2:
 // El alumno deberá crear un string con mas de dos caracteres y mediante el metodo adecuado mostrará el tamaño del string.
 // El alumno modificará el tamaño del string y volverá a comprobar que devuelve el metodo
 
-let cadena="Hola";
-console.log(cadena.length);
+let variableString= 'hola,adios';
+console.log('hola,adios',variableString)
+console.log (variableString.length)
+variableString= 'hola';
+console.log (variableString.length)
 
-cadena="Adios";
-console.log(cadena.length);
+
 
 
 // Ejercicio 3: 
 // El alumno creará un string en minúsculas y mediante el metodo adecuado lo pasará a mayúsculas.
-
-let gatete="minino";
-console.log("minino".toUpperCase());
+let variableString2= 'minusculas'
+console.log('minusculas', variableString2)
+console.log('minusculas'.toUpperCase());
 
 
 
 // Ejercicio 4: 
 // El alumno creará un string en mayúsculas y mediante el metodo adecuado lo pasará a minúsculas.
+let variableString3= 'MAYUSCULAS'
+console.log('MAYUSCULAS',variableString3)
+console.log(variableString3.toLowerCase());
 
-let alumno="EVA";
-console.log("EVA".toLowerCase());
 
 
 // Ejercicio 5: 
 // El alumno deberá obtener el elemento de la posición 2 y 4 del siguiente array: const array = ['hola', 12, , true, [ 1, 3], 'mundo']
+const array = ['hola', 12, , true, [ 1, 3], 'mundo']
+console.log('posicion2',array [2])
+console.log('posicion3' ,array [4])
 
-const arr5=["hola", 12, , true, [ 1, 3], "mundo"];
-console.log(arr5[2]);
-console.log(arr5[4]);
 
 
 // Ejercicio 6:
 // El alumno añadirá nuevos elementos al array en la ultima posición.
-
-
+const array2 = ['hola', 12, , true, [ 1, 3], 'mundo']
+array2.push('hola') 
+array2.lenght;
+array2[array2.length] ='hola'
+console.log(array2)
 
 
 // Ejercicio 7: AVANZADO
@@ -90,8 +95,4 @@ console.log(arr5[4]);
 
 // Ejercicio 10: AVANZADO
 // El alumno obtendrá la ultima posición de cualquier arrray.
-
-
-
-
 
