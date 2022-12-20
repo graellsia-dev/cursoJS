@@ -94,4 +94,4 @@ if (suma2 > 100) {
 // Mediante un prompt solicitar un numero, si este numero es divisible entre 3 deberá mostrar la palabra "FIZZ",
 // si es divisible entre 5 deberá mostrar la palabra "BUZZ", y es divisible entre 3 y 5 deberá mostrar la palabra "FIZZ-BUZZ",
 
-let numero = parseInt (prompt("introduzca el número"))
+
