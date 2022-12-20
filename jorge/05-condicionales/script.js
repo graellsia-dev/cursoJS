@@ -86,25 +86,25 @@
 
 // Ejercicio 5: AVANZADO
 // Dado un array de datos, separarlo en arrays de diferentes datos distintos.
-let arrDatos = [true, 'hola', 123 , '123', false , 55 , 60 , false ];
+// let arrDatos = [true, 'hola', 123 , '123', false , 55 , 60 , false ];
 
-let arrNumbers = [];
-let arrStrings = [];
-let arrBooleans = [];
+// let arrNumbers = [];
+// let arrStrings = [];
+// let arrBooleans = [];
 
-arrDatos.forEach( element => {
-    if (typeof element === 'string' ){
-        arrStrings.push(element)
-    } else if ( typeof element === 'number' ){
-        arrNumbers.push(element)
-    } else {
-        arrBooleans.push(element)
-    }
-})
+// arrDatos.forEach( element => {
+//     if (typeof element === 'string' ){
+//         arrStrings.push(element)
+//     } else if ( typeof element === 'number' ){
+//         arrNumbers.push(element)
+//     } else {
+//         arrBooleans.push(element)
+//     }
+// })
 
-console.log('strings', arrStrings)
-console.log('Numbers', arrNumbers)
-console.log('Booleans', arrBooleans)
+// console.log('strings', arrStrings)
+// console.log('Numbers', arrNumbers)
+// console.log('Booleans', arrBooleans)
 
 
 
@@ -113,4 +113,44 @@ console.log('Booleans', arrBooleans)
 // si es divisible entre 5 deberá mostrar la palabra "BUZZ", y es divisible entre 3 y 5 deberá mostrar la palabra "FIZZ-BUZZ",
 
 let numero = parseInt(prompt("introduzca un numero"));
+
+// if ((numero % 3) === 0 || (numero % 5) === 0 ){
+//     if((numero % 3) === 0){
+//         if((numero % 5 ) === 0) {
+//             console.log('FIZZ-BUZZ')
+//         } else {
+//             console.log('FIZZ')
+//         }
+//     } else {
+//         console.log('BUZZ')
+//     }
+// } else {
+//     console.log('No es divisible entre 3 ni 5')
+// }
+
+// if ((numero % 3) === 0){
+//     if((numero % 5 ) === 0) {
+//         console.log('FIZZ-BUZZ')
+//     } else {
+//         console.log('FIZZ')
+//     }
+// }else if ((numero % 5) === 0){
+//     if((numero % 3 ) === 0) {
+//         console.log('FIZZ-BUZZ')
+//     } else {
+//         console.log('BUZZ')
+//     }
+// } else {
+//     console.log("No es divisible entre 3 ni entre 5")
+// }
+
+if ((numero % 3) === 0 && (numero % 5) === 0) {
+    console.log('FIIZ-BUZZ');
+} else if ((numero % 3) === 0) {
+    console.log('FIZZ');
+} else if ((numero % 5) === 0) {
+    console.log('BUZZ');
+} else {
+    console.log('No es divisible en ninguno');
+}
 
