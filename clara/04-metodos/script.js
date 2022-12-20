@@ -85,8 +85,7 @@ console.log(lista[0] , lista [5]);
 // Ejercicio 9: AVANZADO
 // El alumno dado un array de numeros devolverá un array con todos los términos multiplicados por dos.
 
-const numeros = [2,4,6,8,10];
-console.log(numeros.map(element => element * 2));
+
 
 // Ejercicio 10: AVANZADO
 // El alumno obtendrá la ultima posición de cualquier arrray.
