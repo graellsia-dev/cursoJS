@@ -8,6 +8,9 @@
 
 
 // Ejercicio 2:
+// Crear un boton en el body desde js
+
+
 // Ejercicio 3:
 // Ejercicio 4:
 // Ejercicio 5:
