@@ -1,4 +1,26 @@
-// Ejercicios:
+///////////////
+// CLASE //////
+///////////////
+
+// console.log("Tarea 1")
+// console.log("Tarea 2")
+// console.log("Tarea 3")
+// console.log("Tarea 4")
+// console.log("Tarea 5")
+// console.log("Tarea 6")
+// console.log("Tarea 7")
+// console.log("Tarea 8")
+// console.log("Tarea 9")
+// console.log("Tarea 10")
+
+for(let i=1; i<=10; i = i + 2 ){
+    console.log("Tarea ", i)
+}
+
+
+////////////////
+// EJERCICIOS //
+////////////////
 // El alumno deberá linkar el archivo script.js con el archivo index.html para utilizarlo desde el navegador.
 // Las herramientas de desarrollador deberán estar siempre abiertas.
 // El codigo deberá organizarse de manera limpia y lógica utilizando siempre las buenas practicas indicadas en clase.
