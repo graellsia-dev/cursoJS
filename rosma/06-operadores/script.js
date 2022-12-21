@@ -9,7 +9,7 @@ let numeroA = 36
 let numeroB = 16
 
 
-let suma = numeroA + numeroB
+// let suma = numeroA + numeroB
 console.log("total, ", suma)
 
 let resta = numeroA - numeroB
