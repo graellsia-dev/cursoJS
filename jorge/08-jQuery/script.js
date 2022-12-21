@@ -3,23 +3,21 @@
 // Las herramientas de desarrollador deberán estar siempre abiertas.
 // El codigo deberá organizarse de manera limpia y lógica utilizando siempre las buenas practicas indicadas en clase.
 
-// Ejercicio 1: 
-// Mostrar por consola los numeros del 1 al 10
+// Ejercicio 1:
+// Crear un h1 que diga "hola mundo" desde js
 
-// Ejercicio 2: 
-// Mostrar por consola los numeros del 1 al 100 mostrandolos de 5 en 5
+// Ejercicio 2:
+// Crear un boton que ponga sumar en el body desde js
+// Crear otro boton que ponga restar en el body desde js
 
-// Ejercicio 3: 
-// Mostrar por consola todos los numeros de el siguiente array.
-let array = [2, 5, 8, 15]
+// Ejercicio 3:
+// crear un parrafo que diga "contador: 0" 
 
-// Ejercicio 3: 
-// Sumar todos los numeros del array del ejercicio anterior.
-let sumaArr = 0;
-
-// Ejercicio 4: AVANZADO
-// Mostrar por consola el mayor numero del array del ejercicion 3.
+// Ejercicio 4:
+// Crear la funcionalidad de que cuando se presuione sumar se sume 1 al contador y al restar se reste 1
 
 // Ejercicio 5: AVANZADO
-// Calcular el término X de la sucesión de fibonacci, el cual sera proporcionado por un propmt
-// serieDeFibonacci: 1, 1, 2, 3, 5, 8, 13, 21, ....
+// Hacer un boton de resret que ponga el contador a 0
+
+// Ejercicio 6: AVANZADO
+// Dar clases a los elementos creados y cambiar la fuente y el color de cada uno de los botones
