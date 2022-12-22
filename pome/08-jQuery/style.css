@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+
+.titulo{
+    color: blue;
+}
+.nombre {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: xx-large;
+    color:rgb(255, 191, 0);
+}
+#sumar-button {
+    color: green;
+}
+#restar-button {
+    color:red;
+}

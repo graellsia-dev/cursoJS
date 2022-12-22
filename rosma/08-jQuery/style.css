@@ -6,5 +6,9 @@
 }
 
 .titulo {
-    color: lightseagreen;
+   color: lightgreen;
+}
+
+.header {
+    color: red;
 }

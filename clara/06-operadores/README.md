@@ -43,7 +43,7 @@ a += 2; // sumamos lo que vale a (1) y 2, guardando el resultado en a. a === 3;
 a -= 1; // restamos lo que vale a(3) y 1, guardando el resultado en a. a === 2;
 a *= 2; // multiplicamos lo que vale a(2) por 2, guardando el resultado en a. a === 4;
 a /= 1; // divimos lo que vale a(4) entre 1, guardando el resultado en a. a === 4;
-a %= 2; // divimos lo que vale a(4) entre 2 y nos quedamos con el resto, guardando el resultado en a. a === 0;
+a %= 2; => a=a%2 // divimos lo que vale a(4) entre 2 y nos quedamos con el resto, guardando el resultado en a. a === 0;
 a **= 2; // exponenciamos lo que vale a(0) elevado a 2 , guardando el resultado en a.  a===0
 a++; // Es equivalente a `a+=1`, es decir suma uno a `a` y actualiza la variable
 a--; // Es equivalente a `a-=1`, es decir resta uno a `a` y actualiza la variable
