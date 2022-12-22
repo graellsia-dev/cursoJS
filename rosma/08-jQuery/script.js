@@ -65,7 +65,7 @@ botonResta.addEventListener('click', () => contador.textContent =`contador: ${--
 // Ejercicio 5: AVANZADO
 // Hacer un boton de resret que ponga el contador a 0
 
-
+ 
 
 
 // Ejercicio 6: AVANZADO
