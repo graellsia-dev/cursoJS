@@ -63,6 +63,6 @@ buttonRestar.addEventListener('click',() => {
 
 // Ejercicio 5: AVANZADO
 // Hacer un boton de resret que ponga el contador a 0
-
+Reset.addEventListener
 // Ejercicio 6: AVANZADO
 // Dar clases a los elementos creados y cambiar la fuente y el color de cada uno de los botones
