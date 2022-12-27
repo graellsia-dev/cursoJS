@@ -3,8 +3,112 @@
     padding: 0px;
     box-sizing: border-box;
     font-family: sans-serif;
+    /* background-color: rgb(143, 106, 228); */
 }
+
+body {
+    font-family:'Courier New', Courier, monospace;
+    margin: 20px;
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    display: grid;
+}
+
+input {
+    padding: 7px;
+    font-size: 16px;
+    border-width: 3px;
+    border-color: #CCCCCC;
+    background-color: #FFFFFF;
+    color: #000000;
+    border-style: solid;
+    border-radius: 26px;
+    box-shadow: 0px 0px 16px rgba(66,66,66,.75);
+    text-shadow: 1px 0px 5px rgba(66,66,66,.75);
+}
+
+.seccion-de-tareas {
+    margin: 20px;
+    display: grid;
+}
+
+.tarea {
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+
+.tarea-texto {}
+
+
+.tarea-boton-borrar {
+	box-shadow: 3px 4px 0px 0px #8a2a21;
+	background:linear-gradient(to bottom, #c62d1f 5%, #f24437 100%);
+	background-color:#c62d1f;
+	border-radius:18px;
+	border:1px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:2px 21px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #810e05;
+}
+
+
+
+.formulario{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    display: grid;
+    grid-auto-flow: column; 
+    /* grid-template-columns: auto 35px auto; */
+    grid-column-gap: 15px; 
+}
+
+.formulario-button {
+	box-shadow: 3px 4px 0px 0px #1564ad;
+	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	background-color:#79bbff;
+	border-radius:5px;
+	border:1px solid #337bc4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 21px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+
 
 .titulo {
     color: lightseagreen;
+}
+
+.borrar-tareas-button {
+    margin: 10px;
+	box-shadow:inset 0px 1px 0px 0px #f7c5c0;
+	background:linear-gradient(to bottom, #fc8d83 5%, #e4685d 100%);
+	background-color:#fc8d83;
+	border-radius:6px;
+	border:1px solid #d83526;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #b23e35;
 }
