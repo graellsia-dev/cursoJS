@@ -5,13 +5,29 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./style.css" >
-    <title>Document</title>
+    <title>ProyectoUno</title>
 </head>
 <body>
-    <form id="formulario" name="form">
-        <input type="text" placeholder="Añadir tarea..." name="tarea">
-        <button type="submit">Añadir</button>
-    </form>
+    <header class="header" id="header-id">
+      Proyecto HTML, CSS & JavScript
+    </header>
+    <main class="main-container">
+        <div class="task-container" id="task-container-js">
+            
+            <form class="form-container" id="formulario" name="form">
+                 <input class="input-class" type="text" placeholder="Añadir tarea..." name="tareas">
+                 <button class="button-class" type="submit">Añadir</button>
+                 
+           </form>
+
+           <div class="tasks-list">
+                <h5 class="tasks-element" id="task-element-js"><i>LISTA DE TAREAS</i></h5>
+                <button class="button-class-borrar" id="button-reset-js">Borrar</button>
+           </div>    
+            
+        </div>              
+    </main>
+     
 
     <script src="./script.js"></script>
 </body>
